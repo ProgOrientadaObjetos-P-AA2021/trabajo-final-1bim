@@ -61,7 +61,8 @@ A continuación se definen algunas características de las entidades:
     - La ciudad se debe obtener del archivo ciudades.txt a través del nombre de la ciudad.
     - La constructora se debe obtener del archivo constructoras.txt a través del id de la empresa.
     - El costo final es igual al (número de metros * valor del metro cuadrado) + (valor alícuota mensual * 12).
-    
+ 
+ - Se debe poder listar los datos ingresados para - Propietarios, Ubicaciones, Ciudades, Constructoras, Casas, Departamentos
 
 ### Herramientas a usar
 
