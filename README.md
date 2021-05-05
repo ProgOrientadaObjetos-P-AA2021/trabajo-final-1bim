@@ -54,7 +54,7 @@ A continuación se definen algunas características de las entidades:
     - La constructora se debe obtener del archivo constructoras.txt a través del id de la empresa.
     - El costo final es igual al número de metros * precio del metro cuadrado.
     
-- Todos los objetos de tipo departamento se deben ingresar y guardar en un archivo llamado departamentos.txt (issue: tarea06)
+- Todos los objetos de tipo departamento se deben ingresar y guardar en un archivo llamado departamentos.txt
   - Para el ingreso de un departamento se debe tomar en consideración lo siguiente:
     - El propietario se debe obtener del archivo propietarios.txt a través de la identificacion.
     - La ubicación se debe obtener del archivo ubicaciones.txt a través del número de casa.
