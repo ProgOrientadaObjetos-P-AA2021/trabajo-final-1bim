@@ -4,7 +4,7 @@ Necesitamos realizar un sistema de gestión de una inmobiliaria. En la empresa s
 
 A continuación se definen algunas características de las entidades:
 
-***Una casa tiene propiedades como: ***
+***Una casa tiene propiedades como:***
 
 - propietario (nombres, apellidos, identificacion)
 - precio por metro cuadrado.
