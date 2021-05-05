@@ -1,12 +1,12 @@
 # Trabajo Final del Primer Bimestre - Programación Orientada a Objetos
 
-Necesitamos realizar un sistema de gestión de una inmobiliaria. En la empresa se necesita llevar el registo de constructoras, edificios, departamentos, casas
+Necesitamos realizar un sistema de gestión de una inmobiliaria. En la empresa se necesita llevar el registro de constructoras, edificios, departamentos, casas
 
 A continuación se definen algunas características de las entidades:
 
 ***Una casa tiene propiedades como:***
 
-- propietario (nombres, apellidos, identificacion)
+- propietario (nombres, apellidos, identificación)
 - precio por metro cuadrado.
 - número de metros cuadrados.
 - costo final 
@@ -17,7 +17,7 @@ A continuación se definen algunas características de las entidades:
 
 ***Un departamento posee características como:***
 
-- propietario (nombres, apellidos, identificacion)
+- propietario (nombres, apellidos, identificación)
 - precio por metro cuadrado.
 - número de metros cuadrados.
 - valor alícuota mensual
